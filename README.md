@@ -1,5 +1,7 @@
-this is the official documentation site of the CIM795_Installation class.
+This is the official documentation site of the CIM795_Installation class.
 
+
+------
 ### Workshop Idea
 #### ▼ Concept Introduction
 ![floral assemblage](https://akronartmuseum.org/collection-assets/media/images/JPEG/stankard/2010.282.60.jpg)
